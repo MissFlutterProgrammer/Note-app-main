@@ -37,9 +37,7 @@ class _MyHomePageState extends State<MyHomePage> {
 //--------------------------------------------------------------------------------
 
   final textController = TextEditingController();
-
   final prefranceServer _prefrance = prefranceServer();
-
   List<Note>? listNote = [];
 
 //**************************************
